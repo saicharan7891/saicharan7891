@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Saicharan Konyala</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/saicharankonyala/" target="_blank" rel="noreferrer">Saicharan</a> is a passionate DevOps Engineer from India, working on Cloud and DevOps </font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/saicharankonyala/" target="_blank" rel="noreferrer">Saicharan</a> is a passionate DevOps Engineer from India, working on Cloud & DevOps </font></h3>
 
 <!-- GIF -->
 <img align="right" height="300" width="500" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
