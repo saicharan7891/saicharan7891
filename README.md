@@ -23,3 +23,7 @@
 
 #### Project Management Stack
 <p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" title="git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" title="github" width="40" height="40"/> <img</p>
+
+#### Connect with me:
+- 💬 Ask me about **DevOps**
+- 📫 How to reach me **[https://www.linkedin.com/in/saicharankonyala/](mailto:saicharankonyala7891@gmail.com)**
